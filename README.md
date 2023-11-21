@@ -18,17 +18,17 @@ ii) myenv/Scripts/activate
 iii) pip install pyperclip
 Now you are ready to run the code.
 
-##Sample Photos
+## Sample Photos
 
-#If any value is missing, a warning message will appear:
+# If any value is missing, a warning message will appear:
 
 ![image](https://github.com/Consouldenature/Generate-Passwords/assets/87909481/bbeb7a8b-f70a-402e-ae77-356e29f830d1)
 
-#If all fields are provided, a popup will appear, asking if you want to continue:
+# If all fields are provided, a popup will appear, asking if you want to continue:
 
 ![image](https://github.com/Consouldenature/Generate-Passwords/assets/87909481/3a0136d0-6781-42e3-be6a-dd53aa2c3b78)
 
-#After clicking 'Ok,' the values will be saved in data.txt, and all values in the 'Password Manager' will be cleared:
+# After clicking 'Ok,' the values will be saved in data.txt, and all values in the 'Password Manager' will be cleared:
 
 ![image](https://github.com/Consouldenature/Generate-Passwords/assets/87909481/9a7e0bc4-3f2e-4917-a180-313f8aac7b94)
 
